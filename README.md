@@ -1,5 +1,5 @@
 # Flash ESP32 with initial firmware (test)
-- Install [esptool](https://github.com/espressif/esptool)
+- Install [esptool](https://github.com/espressif/esptool) or mac `brew install esptool` 
 - Download bin files from this repro
 - Run cmd comman one line (replace YOURPATH), select correct com port (currenty selected "COM8")
 ```cmd
