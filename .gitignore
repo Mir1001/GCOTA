@@ -1,1 +1,3 @@
 firmware.bin
+*.zip
+.DS_Store
