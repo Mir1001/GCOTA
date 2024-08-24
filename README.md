@@ -2,6 +2,8 @@
 
 Use native version of esptool [esptool zip](https://github.com/espressif/esptool/releases/tag/v4.7.0).
 
+**Copy win.bat to map and click on or**:
+
 Run on **windows**:
 
 ```
